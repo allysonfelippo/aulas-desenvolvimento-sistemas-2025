@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./.github/logo.png" width="200px">
+</p>
+
 # aulas desenvolvimento sistemas 2025
 
 # Descrição do projeto
@@ -6,7 +10,7 @@ Projeto contruído com React e Node JS em sala de aula
 
 ## Pré requisitos e Instrução de instalação
 
-NodeJS e NPM
+## NodeJS e NPM
 
 ### Etapas
 
@@ -38,6 +42,6 @@ No CMD/Terminal aberto na pasta em que você quer criar o projeto digite o coman
 * Abra o VScode e digita no terminal:
 ``` bash
    npm install
-   
+
    npm run dev
 ```
