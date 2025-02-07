@@ -22,4 +22,22 @@ NodeJS e NPM
     Node -v
     npm -v
 ```
+## Criação do projeto base
 
+No CMD/Terminal aberto na pasta em que você quer criar o projeto digite o comando:
+``` bash
+   npm create vite@latest
+```
+
+* Digita 'y' para confirmar
+* O nome do projeto
+* Digita o nome do pacote e enter (um nome para o teu projeto no NPM) - PRECISA ESTAR EM MINÚSCULAS
+* Framework: React 
+* Variante: JavaScript
+* Rodar os comandos que o vite mandou (no próprio terminal)
+* Abra o VScode e digita no terminal:
+``` bash
+   npm install
+   
+   npm run dev
+```
