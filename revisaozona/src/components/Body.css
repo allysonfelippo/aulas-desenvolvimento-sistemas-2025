@@ -1,5 +1,5 @@
 .container-body {
-    background-color: antiquewhite;
+    background-color: rgb(245, 240, 234);
     height: calc(100vh - 60px);
     /* min-height: calc(100vh - 60px); */
 }
